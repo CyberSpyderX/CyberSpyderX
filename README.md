@@ -19,7 +19,6 @@
 
 ###
 
-<br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="C++" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="Java"  />
@@ -40,12 +39,10 @@
 
 ###
 
-<br>
 <h2 align="center"><b>Mobile Software Development</b></h3>
 
 ###
 
-<br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="Redux"  />
@@ -57,13 +54,10 @@
 
 ###
 
-<br>
-
 <h2 align="center"><b>Machine Learning</b></h3>
 
 ###
 
-<br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="Numpy"    />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="Pandas"    />
